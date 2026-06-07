@@ -159,7 +159,7 @@ VERDICT: REQUEST_CHANGES
 ## 👤 Author
 
 **Krish Patel** — AI Engineer  
-[GitHub](https://github.com/Krishp1) • [LinkedIn](your-linkedin-url)
+[GitHub](https://github.com/krish-patel-ai) • [LinkedIn](https://www.linkedin.com/in/krish-patel-4951713b3/)
 
 ---
 
