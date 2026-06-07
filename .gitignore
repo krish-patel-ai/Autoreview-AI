@@ -1,0 +1,6 @@
+.env
+_pycache_/
+*.zip
+best_model/
+*.pyc
+pr_review_env/
